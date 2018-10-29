@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\micha\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_MDGameService.598165470.00" t="ExcludeRecursive" />
+    <e p="C:\Users\micha\Documents\School\Distributed Apps Dev\Assignment 4\MDGameService" t="IncludeFlat">
+      <e p="MDGameClient" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Connected Services" t="Include">
+          <e p="MDGameServiceReference" t="Include">
+            <e p="configuration.svcinfo" t="Include" />
+            <e p="configuration91.svcinfo" t="Include" />
+            <e p="GameService.disco" t="Include" />
+            <e p="GameService.wsdl" t="Include" />
+            <e p="GameService.xsd" t="Include" />
+            <e p="GameService1.xsd" t="Include" />
+            <e p="GameService2.xsd" t="Include" />
+            <e p="Reference.cs" t="Include" />
+            <e p="Reference.svcmap" t="Include" />
+          </e>
+        </e>
+        <e p="MDGameClient.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="DataSources" t="Include">
+            <e p="MDGameService.Word.datasource" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="MDGameService" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GameService.svc" t="Include" />
+        <e p="GameService.svc.cs" t="Include" />
+        <e p="IGameService.cs" t="Include" />
+        <e p="MDGameService.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="MDGameService.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

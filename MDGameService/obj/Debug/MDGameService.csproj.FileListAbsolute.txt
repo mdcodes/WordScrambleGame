@@ -1,0 +1,14 @@
+C:\Users\micha\Documents\School\Distributed Apps Dev\Assignment 4\MDGameService\MDGameService\bin\MDGameService.dll.config
+C:\Users\micha\Documents\School\Distributed Apps Dev\Assignment 4\MDGameService\MDGameService\bin\MDGameService.dll
+C:\Users\micha\Documents\School\Distributed Apps Dev\Assignment 4\MDGameService\MDGameService\bin\MDGameService.pdb
+C:\Users\micha\Documents\School\Distributed Apps Dev\Assignment 4\MDGameService\MDGameService\obj\Debug\MDGameService.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\School\Distributed Apps Dev\Assignment 4\MDGameService\MDGameService\obj\Debug\MDGameService.dll
+C:\Users\micha\Documents\School\Distributed Apps Dev\Assignment 4\MDGameService\MDGameService\obj\Debug\MDGameService.pdb
+C:\Users\micha\Documents\School\Distributed Apps Dev\Assignment 4\MDGameService\MDGameService\obj\Debug\MDGameService.csprojResolveAssemblyReference.cache
+X:\Workspace\College_Stuff\DistributedAppsDev\MDA3WordScramble\MDGameService\MDGameService\bin\MDGameService.dll.config
+X:\Workspace\College_Stuff\DistributedAppsDev\MDA3WordScramble\MDGameService\MDGameService\bin\MDGameService.dll
+X:\Workspace\College_Stuff\DistributedAppsDev\MDA3WordScramble\MDGameService\MDGameService\bin\MDGameService.pdb
+X:\Workspace\College_Stuff\DistributedAppsDev\MDA3WordScramble\MDGameService\MDGameService\obj\Debug\MDGameService.csprojAssemblyReference.cache
+X:\Workspace\College_Stuff\DistributedAppsDev\MDA3WordScramble\MDGameService\MDGameService\obj\Debug\MDGameService.csproj.CoreCompileInputs.cache
+X:\Workspace\College_Stuff\DistributedAppsDev\MDA3WordScramble\MDGameService\MDGameService\obj\Debug\MDGameService.dll
+X:\Workspace\College_Stuff\DistributedAppsDev\MDA3WordScramble\MDGameService\MDGameService\obj\Debug\MDGameService.pdb
